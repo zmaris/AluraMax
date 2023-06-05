@@ -1,6 +1,6 @@
 :root {  
     --branco-principal: #FFFFFF;
---botao-azul: #93b5df;
+--botao-azul: #5b1197;
 --cor-de-fundo: #a805ad;
 --cinza-secundario: #C0C0C0;
 
@@ -17,6 +17,8 @@ color: var(--branco-principal);
 background-image: url("Background.png");
 background-repeat: no-repeat;
 background-size: contain;
+align-items: center;
+text-align: center;
 }
 .container{
 height: 100vh;
