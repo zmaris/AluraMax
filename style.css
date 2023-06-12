@@ -53,3 +53,21 @@ grid-template-columns: 50% 50%;
 .container_caixa{
     margin: 0 6em;
 }
+.scundario__imagem {
+width: 80%;
+}
+.secundario {
+align-items: center ; 
+margin: 0 10em;
+}
+
+.descrição__titulo{ 
+    font-weight: 700;
+    font-size: 48px;
+    color: var(--branco-principal);
+margin-bottom: 0.1em;
+}
+.descrição__texto{
+color: var(--cinza-secundario);
+
+}
