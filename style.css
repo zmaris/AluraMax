@@ -1,7 +1,7 @@
 :root {  
     --branco-principal: #FFFFFF;
 --botao-azul: #5b1197;
---cor-de-fundo: #a805ad;
+--cor-de-fundo: #d285d4;
 --cinza-secundario: #C0C0C0;
 
 }
@@ -69,5 +69,14 @@ margin-bottom: 0.1em;
 }
 .descrição__texto{
 color: var(--cinza-secundario);
+
+}
+.botao_secundario{
+display: inline-block;
+margin-top: 1em;
+
+}
+.container__descrição{
+padding: 2em;
 
 }
