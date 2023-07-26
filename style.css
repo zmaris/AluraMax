@@ -95,7 +95,28 @@ text-align: center;
 font-size: 48px;
 color: var(--branco-principal);
 }
+.lista-link a{
+    color: var(--branco-principal);
+    margin-left: 3em;
+    text-decoration: none;
+}
+
 .lista-item{
 font-size: 32px;
 color: var(--branco-principal);
+};
+.rodape_lista {
+display: flex;
+list-style-type: none;
+justify-content: center;
+}
+.rodape{
+    text-align: center;
+    margin: 2em;
+}
+.rodape_logo{
+    margin-bottom: 2em;
+}
+.lista-link a:hover{
+    color: var(--botao-azul);
 }
