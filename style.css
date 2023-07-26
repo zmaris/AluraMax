@@ -80,6 +80,22 @@ margin-top: 1em;
 padding: 2em;
 
 }
-.descrição__texto{
-    
+.dispositivo_lista{
+display:flex;
+justify-content:center ;
+list-style-type: none;
+margin: 5em 0;
+}
+
+.dispositivos{
+text-align: center;
+
+}
+.dipositivos_titulo{
+font-size: 48px;
+color: var(--branco-principal);
+}
+.lista-item{
+font-size: 32px;
+color: var(--branco-principal);
 }
